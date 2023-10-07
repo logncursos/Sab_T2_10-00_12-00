@@ -19,8 +19,3 @@
 :arrow_forward: `dotnet run`: Executa o projeto .NET no terminal
 
 ---
-
-## Livro usado em aula
-- Lógica Para Desenvolvimento de Programação de Computadores Edição: 29 de José Augusto N. G. e Jayr Figueiredo. 
-- Link de compra: [amazon.com](http://tiny.cc/2vh7vz)
-- <a href ="http://tiny.cc/2vh7vz"><img src="https://m.media-amazon.com/images/I/71zBN1+jN-L.jpg" alt="Capa do livro" width="200"></a>
