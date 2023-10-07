@@ -1,5 +1,14 @@
 # Material de Apoio
 
+### Vídeos
+> :warning: **Importante:** Assista aos vídeos abaixo para aprender como baixar os programas necessários e para aprender a usar os comandos básicos para incializar seu projeto.
+
+🎥: `1 - Como instalar o Visual Studio Code.`: https://youtu.be/WZisUAmyAR4 \
+🎥: `2 - Como instalar o .Net.`: [https://youtu.be/WZisUAmyAR4](https://youtu.be/I6XZrQxTQlw) \
+🎥: `3 - Como incializar um projeto .NET.`: [https://youtu.be/I6XZrQxTQlw](https://youtu.be/3_EDA8VDMpA)
+
+---
+
 ## Comandos úteis
 ### Terminal
 :file_folder: `dir`: Lista os arquivos e diretórios no diretório atual\
