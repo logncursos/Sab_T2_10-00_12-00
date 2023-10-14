@@ -1,0 +1,14 @@
+/Users/bruno/Desktop/projeto1/bin/Debug/net7.0/projeto1
+/Users/bruno/Desktop/projeto1/bin/Debug/net7.0/projeto1.deps.json
+/Users/bruno/Desktop/projeto1/bin/Debug/net7.0/projeto1.runtimeconfig.json
+/Users/bruno/Desktop/projeto1/bin/Debug/net7.0/projeto1.dll
+/Users/bruno/Desktop/projeto1/bin/Debug/net7.0/projeto1.pdb
+/Users/bruno/Desktop/projeto1/obj/Debug/net7.0/projeto1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bruno/Desktop/projeto1/obj/Debug/net7.0/projeto1.AssemblyInfoInputs.cache
+/Users/bruno/Desktop/projeto1/obj/Debug/net7.0/projeto1.AssemblyInfo.cs
+/Users/bruno/Desktop/projeto1/obj/Debug/net7.0/projeto1.csproj.CoreCompileInputs.cache
+/Users/bruno/Desktop/projeto1/obj/Debug/net7.0/projeto1.dll
+/Users/bruno/Desktop/projeto1/obj/Debug/net7.0/refint/projeto1.dll
+/Users/bruno/Desktop/projeto1/obj/Debug/net7.0/projeto1.pdb
+/Users/bruno/Desktop/projeto1/obj/Debug/net7.0/projeto1.genruntimeconfig.cache
+/Users/bruno/Desktop/projeto1/obj/Debug/net7.0/ref/projeto1.dll
