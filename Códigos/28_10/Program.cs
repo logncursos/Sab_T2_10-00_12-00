@@ -8,15 +8,22 @@
 // 	• Verifique se o número é par ou ímpar.
 // 	• Exiba uma mensagem informando se o número é par ou ímpar.
 
+// int numeroDigitado = Convert.ToInt32(Console.ReadLine());
+// int resto = numeroDigitado % 2;
+// int resto = numeroDigitado - 2 * (numeroDigitado/ 2);
+// if(resto == 0){
+//     Console.WriteLine("par");
+// } else {
+//     Console.WriteLine("impar");
+// }
 
+Console.WriteLine("Tabuada do?");
+int tabuadoDo = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("----------------");
 
-
-int numeroDigitado = Convert.ToInt32(Console.ReadLine());
-int resto = numeroDigitado / 2;
-
-if(resto == 0){
-    Console.WriteLine("par");
-} else {
-    Console.WriteLine("impar");
+for (int i = 0; i <= 10; i++)
+{
+    int resultadoMult = i * tabuadoDo;
+    Console.WriteLine(tabuadoDo+" x "+ i + " = " + resultadoMult);
+    Console.WriteLine(resultadoMult % 2 == 0 ? "par" : "impar");
 }
-// int resto = numeroDigitado - 2 * (numeroDigitado/ 2); - Essa e a formula para o resto da divisao de um numero. Para o exercicio de amanha.
