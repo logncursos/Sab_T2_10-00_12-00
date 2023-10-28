@@ -1,0 +1,14 @@
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/28_10/bin/Debug/net7.0/28_10
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/28_10/bin/Debug/net7.0/28_10.deps.json
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/28_10/bin/Debug/net7.0/28_10.runtimeconfig.json
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/28_10/bin/Debug/net7.0/28_10.dll
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/28_10/bin/Debug/net7.0/28_10.pdb
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/28_10/obj/Debug/net7.0/28_10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/28_10/obj/Debug/net7.0/28_10.AssemblyInfoInputs.cache
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/28_10/obj/Debug/net7.0/28_10.AssemblyInfo.cs
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/28_10/obj/Debug/net7.0/28_10.csproj.CoreCompileInputs.cache
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/28_10/obj/Debug/net7.0/28_10.dll
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/28_10/obj/Debug/net7.0/refint/28_10.dll
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/28_10/obj/Debug/net7.0/28_10.pdb
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/28_10/obj/Debug/net7.0/28_10.genruntimeconfig.cache
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/28_10/obj/Debug/net7.0/ref/28_10.dll
