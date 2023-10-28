@@ -23,7 +23,13 @@ Console.WriteLine("----------------");
 
 for (int i = 0; i <= 10; i++)
 {
+
     int resultadoMult = i * tabuadoDo;
     Console.WriteLine(tabuadoDo+" x "+ i + " = " + resultadoMult);
-    Console.WriteLine(resultadoMult % 2 == 0 ? "par" : "impar");
+
+    if(resultadoMult % 2 == 0){
+        Console.WriteLine("par");
+    } else{
+        Console.WriteLine("impar");
+    }
 }
