@@ -1,0 +1,15 @@
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/18_11_23/bin/Debug/net8.0/18_11_23
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/18_11_23/bin/Debug/net8.0/18_11_23.deps.json
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/18_11_23/bin/Debug/net8.0/18_11_23.runtimeconfig.json
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/18_11_23/bin/Debug/net8.0/18_11_23.dll
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/18_11_23/bin/Debug/net8.0/18_11_23.pdb
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/18_11_23/obj/Debug/net8.0/18_11_23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/18_11_23/obj/Debug/net8.0/18_11_23.AssemblyInfoInputs.cache
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/18_11_23/obj/Debug/net8.0/18_11_23.AssemblyInfo.cs
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/18_11_23/obj/Debug/net8.0/18_11_23.csproj.CoreCompileInputs.cache
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/18_11_23/obj/Debug/net8.0/18_11_23.sourcelink.json
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/18_11_23/obj/Debug/net8.0/18_11_23.dll
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/18_11_23/obj/Debug/net8.0/refint/18_11_23.dll
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/18_11_23/obj/Debug/net8.0/18_11_23.pdb
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/18_11_23/obj/Debug/net8.0/18_11_23.genruntimeconfig.cache
+/Users/bruno/Documents/GitHub/Sab_T2_10-00_12-00/Códigos/18_11_23/obj/Debug/net8.0/ref/18_11_23.dll
